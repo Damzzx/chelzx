@@ -1,1 +1,11 @@
-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
+{
+    "username": "chelz",
+    "password": "dev",
+    "role": "owner"
+  },
+  {
+    "username": "vipuser",
+    "password": "vippass",
+    "role": "owner"
+  }
+]
