@@ -8,5 +8,100 @@
     "username": "vipuser",
     "password": "vippass",
     "role": "owner"
-  }
+  },
+  {
+    "username": "manz",
+    "password": "manz",
+    "role": "user"
+  },
+  {
+    "username": "farz",
+    "password": "farz",
+    "role": "user"
+  },
+  {
+    "username": "anz",
+    "password": "anz",
+    "role": "user"
+  },
+  {
+    "username": "haidarz",
+    "password": "haidarz",
+    "role": "user"
+  },
+  {
+    "username": "rii",
+    "password": "rii",
+    "role": "user"
+  },
+  {
+    "username": "dapa",
+    "password": "dapa",
+    "role": "user"
+  },
+  {
+    "username": "lowz",
+    "password": "lowz",
+    "role": "user"
+  },
+  {
+    "username": "lamz",
+    "password": "lamz",
+    "role": "user"
+  },
+  {
+    "username": "Bug xforshis",
+    "password": "Bug xforshis",
+    "role": "user"
+  },
+  {
+    "username": "tiyar",
+    "password": "tiyar",
+    "role": "user"
+  },
+  {
+    "username": "hanz",
+    "password": "hanz",
+    "role": "user"
+  },
+  {
+    "username": "wanz",
+    "password": "wanz",
+    "role": "user"
+  },
+  {
+    "username": "rapzjb",
+    "password": "rapzjb",
+    "role": "user"
+  },
+  {
+    "username": "lam",
+    "password": "lam",
+    "role": "user"
+  },
+  {
+    "username": "adit",
+    "password": "adit",
+    "role": "user"
+  },
+  {
+    "username": "dit",
+    "password": "dit",
+    "role": "user"
+  },
+  {
+    "username": "alifi",
+    "password": "alifi",
+    "role": "user"
+  },
+  {
+    "username": "mikz",
+    "password": "mikz",
+    "role": "user"
+  },
+  {
+    "username": "hanzzz",
+    "password": "hanzzz",
+    "role": "user"
+}
 ]
